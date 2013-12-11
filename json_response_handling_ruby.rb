@@ -38,7 +38,7 @@ buffer = open(url).read
 #      # ... and more
 # |    )
 
-# Convert the String response into a plain old Ruby array. It is faster and saves you time compared to the standard Ruby libraries too.
+# Convert the String response into a plain old Array. It is faster and saves you time compared to the standard Ruby libraries too.
 result = JSON.parse(buffer)
 # An example of how to take a random sample of elements from an array. Pass the number of elements you want into .sample() method. It's probably a better idea for the server to limit the results before sending, but you can use basic Ruby skills to trim & modify the data however you'd like.
 result = result.sample(5)

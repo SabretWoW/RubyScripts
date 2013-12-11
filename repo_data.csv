@@ -1,0 +1,26 @@
+rank,author,repo_name,description
+1,maccman,monocle,Link and news sharing
+2,gitlabhq,gitlabhq,Project management and code hosting  application. Follow us on twitter @gitlabhq
+3,mxcl,homebrew,The missing package manager for OS X.
+4,nhmood,watson-ruby,""
+5,Thibaut,devdocs,API Documentation Browser
+6,gottfrois,dashing-rails,The exceptionally handsome dashboard framework for Rails.
+7,phinze,homebrew-cask,a friendly homebrew-style CLI workflow for the administration of Mac applications distributed as binaries
+8,rails,rails,Ruby on Rails
+9,mojombo,jekyll,"Jekyll is a blog-aware, static site generator in Ruby"
+10,discourse,discourse,"A platform for community discussion. Free, open, simple."
+11,ivaldi,brimir,Email helpdesk built using Ruby on Rails and Zurb Foundation
+12,errbit,errbit,The open source error catcher that's Airbrake API compliant
+13,andrew,24pullrequests,Giving back little gifts of code for Christmas
+14,mitchellh,vagrant,Vagrant is a tool for building and distributing working environments.
+15,huacnlee,imax.im,Source code of IMAX.im
+16,plataformatec,devise,Flexible authentication solution for Rails with Warden.
+17,capistrano,capistrano,Remote multi-server automation tool
+18,imathis,octopress,Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?
+19,jonleighton,spring,Rails application preloader
+20,thomas-mcdonald,bootstrap-sass,"bootstrap-sass is bootstrap for Sass, ready to roll"
+21,nex3,sass,Sass makes CSS fun again.
+22,CocoaPods,Specs,A repository of CocoaPods (cocoapods.org) specifications.
+23,thoughtbot,bitters,Add a dash of pre-defined style to your Bourbon.
+24,progit,progit,Pro Git Book Content
+25,ruby,ruby,The Ruby Programming Language
